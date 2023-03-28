@@ -1,0 +1,10 @@
+[2023-03-27 23:47:42] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-03-27 23:47:42] [WARNING]: 将在 5秒 后继续. 
+[2023-03-27 23:47:52] [WARNING]: 当前协议不支持二维码登录, 请配置账号密码登录. 
+[2023-03-27 23:48:18] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-03-27 23:48:18] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-03-27 23:48:18] [WARNING]: 1. 自动提交 
+[2023-03-27 23:48:18] [WARNING]: 2. 手动抓取提交 
+[2023-03-27 23:48:18] [WARNING]: 请输入(1 - 2)： 
+[2023-03-27 23:48:27] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=OaoRGorv&style=simple&aid=16&uin=483788398&sid=7539598812434774722&cap_cd=AJpKX8Vy8BAzyy8QnTvj3CFDFx3yAGiZaXuEF5-2gA7nrcsierA5iw**&clientype=1&apptype=2  
+[2023-03-27 23:51:26] [WARNING]: 验证超时 
