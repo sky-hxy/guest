@@ -2,7 +2,7 @@
 Author: hxy 1305149167@qq.com
 Date: 2023-04-30 18:30:58
 LastEditors: hxy 1305149167@qq.com
-LastEditTime: 2023-05-03 23:46:57
+LastEditTime: 2024-06-19 23:43:25
 FilePath: /Python-100-Days-master/Day16-20/demo.py
 Description: 
 
@@ -74,8 +74,19 @@ def calc_avg():
         total, counter = total + value, counter + 1
         avg_value = total / counter
 
-gen = calc_avg()
-next(gen)
-print(gen.send(10))
-print(gen.send(20))
-print(gen.send(30))
+
+def record_time(func):
+    """自定义装饰函数的装饰器"""
+
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        start = time()
+        result = func(*args, **kwargs)
+        print(f'{func.__name__}: {time()- start} seconds')
+        return result
+
+# gen = calc_avg()
+# next(gen)
+# print(gen.send(10))
+# print(gen.send(20))
+# print(gen.send(30))
