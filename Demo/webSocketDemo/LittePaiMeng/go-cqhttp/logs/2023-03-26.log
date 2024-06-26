@@ -1,0 +1,18 @@
+[2023-03-26 22:01:38] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-03-26 22:01:46] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-03-26 22:01:46] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-03-26 22:01:46] [WARNING]: 1. 自动提交 
+[2023-03-26 22:01:46] [WARNING]: 2. 手动抓取提交 
+[2023-03-26 22:01:46] [WARNING]: 请输入(1 - 2)： 
+[2023-03-26 22:01:48] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=32Tr6k9V&style=simple&aid=16&uin=483788398&sid=4454001174917435466&cap_cd=tZ0p9zQnNNYD2GtxNTfrc_Kg480e73mwgWHIjnddn0hHeII0O7GKcA**&clientype=1&apptype=2  
+[2023-03-26 22:02:08] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-03-26 22:23:44] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-03-26 22:23:44] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-03-26 22:23:44] [WARNING]: 1. 自动提交 
+[2023-03-26 22:23:44] [WARNING]: 2. 手动抓取提交 
+[2023-03-26 22:23:44] [WARNING]: 请输入(1 - 2)： 
+[2023-03-26 22:23:47] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=0CSVuMa6&style=simple&aid=16&uin=483788398&sid=7550097434787992944&cap_cd=B3ND-DRIkcmRC9aN1XoCQs0Si_I2RLoIwn4W-2JNJL7Et3DDX5JItA**&clientype=1&apptype=2  
+[2023-03-26 22:23:59] [WARNING]: 登录失败: 当前网络不稳定，登录失败。推荐使用常用设备或通过手机号登录。 Code: 237 
+[2023-03-26 22:27:55] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-03-26 22:27:55] [WARNING]: 将在 5秒 后继续. 
+[2023-03-26 22:28:05] [WARNING]: 当前协议不支持二维码登录, 请配置账号密码登录. 

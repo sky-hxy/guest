@@ -1,0 +1,15 @@
+[project]
+name = "LittePaiMeng"
+version = "0.1.0"
+description = "LittePaiMeng"
+readme = "README.md"
+requires-python = ">=3.8, <4.0"
+
+[tool.nonebot]
+adapters = [
+    { name = "Ntchat", module_name = "nonebot.adapters.ntchat" },
+    {name = "Console", module_name = "nonebot.adapters.console", project_link = "nonebot-adapter-console", desc = "基于终端的交互式适配器"}
+]
+plugins = []
+plugin_dirs = []
+builtin_plugins = ["echo"]
